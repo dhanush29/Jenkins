@@ -2,7 +2,6 @@
 
 import unittest
 
-from unittest.main import main
 from mymax import mymax
 
 class TestMax(unittest.TestCase):
