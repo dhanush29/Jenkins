@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
-def max(list):
+def mymax(list):
     return max(list)
 
