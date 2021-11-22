@@ -1,3 +1,3 @@
-def max(l):
+def max(list):
     return max(list)
 
