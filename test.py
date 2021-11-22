@@ -3,7 +3,6 @@
 import unittest
 
 from unittest.main import main
-from max import max
 
 class TestMax(unittest.TestCase):
     def test_max_1(self):
