@@ -13,6 +13,9 @@ class TestMax(unittest.TestCase):
         
     def test_max_3(self):
         self.assertEqual(mymax([1,5,3]),5)
+        
+    def test_max_4(self):
+        self.assertEqual(mymax([1,5,3,4]),4)
 
 if __name__ == '__main__':
     unittest.main()
